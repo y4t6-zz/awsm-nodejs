@@ -7,6 +7,6 @@ var message = 'Hello';
 console.log(global.message);
 */
 
-//console.log(__dirname);
+console.log(__dirname);
 
 console.log(__filename);
